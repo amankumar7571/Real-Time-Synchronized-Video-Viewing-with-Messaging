@@ -1,0 +1,29 @@
+{
+  "Core Features": [
+    "Video player with synchronized controls",
+    "Real-time text chat sidebar",
+    "User presence indicators",
+    "Room creation and joining",
+    "YouTube URL input and validation"
+  ],
+  "Technical Requirements": [
+    "WebSocket connection management",
+    "YouTube iframe API integration",
+    "Responsive design (mobile/desktop)",
+    "Error handling and reconnection",
+    "User authentication/nicknames"
+  ],
+  "Performance Optimizations": [
+    "Minimize WebSocket messages",
+    "Efficient video state management",
+    "Graceful degradation",
+    "Connection health monitoring"
+  ],
+  "User Interface Elements": [
+    "Clean video player layout",
+    "Persistent chat panel",
+    "User list with online status",
+    "Simple room controls",
+    "Mobile-friendly design"
+  ]
+}
